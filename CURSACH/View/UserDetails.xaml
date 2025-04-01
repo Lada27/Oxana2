@@ -1,0 +1,497 @@
+﻿<Window x:Class="CURSACH.View.UserDetails"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CURSACH.View"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Background="Transparent"
+        AllowsTransparency="True"
+        WindowStyle="None"
+        Title="Team"
+        Height="500"
+        Width="850">
+
+    <Window.Resources>
+        <!-- Стиль для ComboBox -->
+        <Style x:Key="CustomComboBoxStyle"
+               TargetType="ComboBoxItem">
+
+            <Setter Property="Foreground"
+                    Value="#0747A6" />
+            <!-- Цвет текста -->
+            <Setter Property="Background"
+                    Value="White" />
+            <!-- Цвет фона -->
+            <Setter Property="BorderBrush"
+                    Value="Blue" />
+            <!-- Цвет границы -->
+            <Setter Property="BorderThickness"
+                    Value="1" />
+            <!-- Толщина границы -->
+
+        </Style>
+
+        <Style TargetType="{x:Type DatePicker}">
+            <Style.Resources>
+                <Style TargetType="DatePickerTextBox">
+                    <Setter Property="Background"
+                            Value="Transparent" />
+                    <Setter Property="BorderThickness"
+                            Value="0" />
+
+                </Style>
+            </Style.Resources>
+            <Setter Property="Background"
+                    Value="Transparent" />
+            <Setter Property="BorderBrush"
+                    Value="Transparent" />
+            <Setter Property="BorderThickness"
+                    Value="0" />
+            <Setter Property="FontSize"
+                    Value="15" />
+
+            <Style.Triggers>
+                <!-- your triggers here -->
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+
+        <Border
+                Background="#F4F4F4"
+                BorderBrush="#0747A6"
+                BorderThickness="4"
+                Opacity="0.4">
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30" />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition />
+                        <ColumnDefinition Width="25" />
+                        <ColumnDefinition Width="25" />
+                        <ColumnDefinition Width="25" />
+
+                        <ColumnDefinition Width="5" />
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="Подробности задачи"
+                               Foreground="#F4F4F4"
+                               FontSize="10"
+                               FontFamily="Montserrat"
+                               Grid.Column="0"
+                               VerticalAlignment="Center"
+                               Margin="10,0,0,0" />
+                    <Button x:Name="btnMinimize"
+                            BorderThickness="0"
+                            Content="-"
+                            Foreground="White"
+                            FontSize="16"
+                            FontFamily="Montserrat"
+                            Cursor="Hand"
+                            Grid.Column="1"
+                            Click="btnMinimize_Click">
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background"
+                                        Value="#0747A6" />
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver"
+                                             Value="True">
+                                        <Setter Property="Background"
+                                                Value="#278BEF" />
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Width="18"
+                                        Height="18"
+                                        CornerRadius="0"
+                                        Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center" />
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+
+                    <Button x:Name="btnMaximaze"
+                            BorderThickness="0"
+                            Content="[ ]"
+                            Foreground="White"
+                            FontSize="10"
+                            FontFamily="Montserrat"
+                            Cursor="Hand"
+                            Grid.Column="2"
+                            Click="btnMaximaze_Click">
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background"
+                                        Value="#0747A6" />
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver"
+                                             Value="True">
+                                        <Setter Property="Background"
+                                                Value="#278BEF" />
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Width="18"
+                                        Height="18"
+                                        CornerRadius="0"
+                                        Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center" />
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+
+                    <Button x:Name="btnClose"
+                            BorderThickness="0"
+                            Content="X"
+                            Foreground="White"
+                            FontSize="12"
+                            FontFamily="Montserrat"
+                            Cursor="Hand"
+                            Grid.Column="3"
+                            Click="btnClose_Click">
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background"
+                                        Value="#F5DEB3" />
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver"
+                                             Value="True">
+                                        <Setter Property="Background"
+                                                Value="#C62DAE" />
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Width="18"
+                                        Height="18"
+                                        CornerRadius="0"
+                                        Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center" />
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </Grid>
+
+            </Grid>
+        </Border>
+
+        <Grid>
+            <Border
+                    Background="White"
+                    BorderBrush="#0747A6"
+                    BorderThickness="4"
+                    Margin="15">
+
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.6*" />
+                        <RowDefinition Height="1.7*" />
+
+                        <RowDefinition Height="0.1*" />
+
+                    </Grid.RowDefinitions>
+
+                    <Grid Grid.Row="0">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="80" />
+                                <ColumnDefinition />
+                            </Grid.ColumnDefinitions>
+                            <Button x:Name="btnCloseTaskDetail"
+                                    BorderThickness="0"
+                                    Content="X"
+                                    Foreground="#0747A6"
+                                    FontSize="20"
+                                    FontFamily="Montserrat"
+                                    Cursor="Hand"
+                                    Grid.Column="0"
+                                    Click="btnCloseDetails_Click"
+                                    VerticalAlignment="Top"
+                                    Margin="0,15,0,0">
+                                <Button.Style>
+                                    <Style TargetType="Button">
+                                        <Setter Property="Background"
+                                                Value="White" />
+                                        <Style.Triggers>
+                                            <Trigger Property="IsMouseOver"
+                                                     Value="True">
+                                                <Setter Property="Background"
+                                                        Value="#F5DEB3" />
+                                            </Trigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </Button.Style>
+                                <Button.Template>
+                                    <ControlTemplate TargetType="Button">
+                                        <Border Width="35"
+                                                Height="35"
+                                                CornerRadius="0"
+                                                Background="{TemplateBinding Background}">
+                                            <ContentPresenter VerticalAlignment="Center"
+                                                              HorizontalAlignment="Center" />
+                                        </Border>
+                                    </ControlTemplate>
+                                </Button.Template>
+                            </Button>
+
+                            <ScrollViewer Grid.Column="1">
+                                <TextBox x:Name="UserName"
+                                         
+                                         Foreground="#160C31"
+                                         FontSize="25"
+                                         FontWeight="Bold"
+                                         FontFamily="Montserrat"
+                                         HorizontalAlignment="Center"
+                                         VerticalAlignment="Center"
+                                         TextWrapping="Wrap"
+                                         Margin="5"
+                                         BorderThickness="0"  />
+                            </ScrollViewer>
+                        </Grid>
+                    </Grid>
+
+                    <Grid Grid.Row="1">
+                        <ScrollViewer>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition />
+                                    <RowDefinition />
+                                    <RowDefinition />
+                                    <RowDefinition />
+                                </Grid.RowDefinitions>
+
+                                <Grid Grid.Row="0">
+                                    
+
+                                    <StackPanel Grid.Column="1"
+                                                Orientation="Vertical">
+                                        <Grid>
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="*" />
+                                                <RowDefinition Height="*" />
+                                                <RowDefinition Height="*" />
+                                                <RowDefinition Height="*" />
+
+                                                <RowDefinition Height="*" />
+
+                                                <RowDefinition Height="*" />
+                                            </Grid.RowDefinitions>
+
+
+                                            <Grid Grid.Row="2"
+                                                  Margin="0,0,0,10">
+                                                
+
+
+                                                <TextBlock  Text="Роль"
+                                                            Foreground="#160C31"
+                                                            FontSize="19"
+                                                            FontFamily="Montserrat"
+                                                            HorizontalAlignment="Center"
+                                                            VerticalAlignment="Center"
+                                                            TextWrapping="Wrap "
+                                                            />
+                                            </Grid>
+
+                                            <Border Grid.Row="3"
+                                                    Background="#EDEDED"
+                                                    CornerRadius="0"
+                                                    BorderBrush="#F5DEB3"
+                                                    BorderThickness="2"
+                                                    Margin="60,20"
+                                                    Height="35">
+
+                                                <ComboBox Name="cbRole"
+                                                          SelectedIndex="0"
+                                                          Foreground="#160C31"
+                                                          Background="Transparent"
+                                                          FontSize="19"
+                                                          FontFamily="Montserrat"
+                                                          HorizontalAlignment="Center"
+                                                          BorderThickness="0"
+                                                          IsEditable="False"
+                                                          BorderBrush="Transparent"
+                                                          Margin="0,0,0,2">
+
+                                                </ComboBox>
+                                            </Border>
+                                            <Grid Grid.Row="4"
+                                                  Margin="0,0,0,10">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition Width="*" />
+                                                    <ColumnDefinition Width="2*" />
+
+                                                </Grid.ColumnDefinitions>
+
+                                                <TextBlock  Text="Почта"
+                                                            Foreground="#160C31"
+                                                            FontSize="19"
+                                                            FontFamily="Montserrat"
+                                                            HorizontalAlignment="Center"
+                                                            VerticalAlignment="Center"
+                                                            TextWrapping="Wrap "
+                                                            Grid.Column="0"
+                                                           />
+                                                <Border Grid.Column="1"
+                                                    Background="#EDEDED"
+                                                    CornerRadius="0"
+                                                    BorderBrush="#F5DEB3"
+                                                    BorderThickness="2"
+                                                    Margin="60,20"
+                                                    Height="35">
+
+                                                    <TextBox Name="tbEmail"
+                                                          Foreground="#160C31"
+                                                          Background="Transparent"
+                                                          FontSize="19"
+                                                         Width="390"
+                                                          FontFamily="Montserrat"
+                                                          HorizontalAlignment="Center"
+                                                          BorderThickness="0"
+                                                          BorderBrush="Transparent"
+                                                          Margin="0,0,0,2">
+
+                                                    </TextBox>
+                                                </Border>
+
+
+                                            </Grid>
+                                            <Grid Grid.Row="5"
+                                                  Margin="0,0,0,10">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition Width="*" />
+                                                    <ColumnDefinition Width="2*" />
+
+                                                </Grid.ColumnDefinitions>
+
+                                                <TextBlock  Text="Телефон"
+                                                            Foreground="#160C31"
+                                                            FontSize="19"
+                                                            FontFamily="Montserrat"
+                                                            HorizontalAlignment="Center"
+                                                            VerticalAlignment="Center"
+                                                            TextWrapping="Wrap "
+                                                            Grid.Column="0"
+                                                           />
+                                                <Border Grid.Column="1"
+                                                    Background="#EDEDED"
+                                                    CornerRadius="0"
+                                                    BorderBrush="#F5DEB3"
+                                                    BorderThickness="2"
+                                                    Margin="60,20"
+                                                    Height="35">
+
+                                                    <TextBox Name="tbPhone"
+                                                          Foreground="#160C31"
+                                                          Background="Transparent"
+                                                          FontSize="19"
+                                                         Width="390"
+                                                          FontFamily="Montserrat"
+                                                          HorizontalAlignment="Center"
+                                                          BorderThickness="0"
+                                                          BorderBrush="Transparent"
+                                                          Margin="0,0,0,2">
+
+                                                    </TextBox>
+                                                </Border>
+
+
+                                            </Grid>
+
+
+                                        </Grid>
+                                    </StackPanel>
+
+                                </Grid>
+
+
+                             
+                                <Grid Grid.Row="4"
+                                      Margin="15,0">
+                                    <Grid>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition />
+                                            <ColumnDefinition />
+
+                                        </Grid.ColumnDefinitions>
+
+
+                                        <Button x:Name="btnSave"
+                                                Grid.Column="1"
+                                                Content="Сохранить"
+                                                Foreground="#160C31"
+                                                FontFamily="Montserrat"
+                                                Cursor="Hand"
+                                                FontSize="19"
+                                                VerticalAlignment="Center"
+                                                Click="btnSave_Click"
+                                                BorderBrush="#0747A6"
+                                                BorderThickness="10">
+
+                                            <Button.Style>
+                                                <Style TargetType="{x:Type Button}">
+                                                    <Setter Property="Background"
+                                                            Value="#F5F5F5" />
+                                                    <Style.Triggers>
+                                                        <Trigger Property="IsMouseOver"
+                                                                 Value="True">
+                                                            <Setter Property="Background"
+                                                                    Value="#F5DEB3" />
+                                                        </Trigger>
+                                                    </Style.Triggers>
+                                                </Style>
+                                            </Button.Style>
+                                            <Button.Template>
+                                                <ControlTemplate TargetType="{x:Type Button}">
+                                                    <Border  BorderBrush="#F4F4F4"
+                                                             BorderThickness="1"
+                                                             CornerRadius="0"
+                                                             Width="190"
+                                                             Height="38"
+                                                             Background="{TemplateBinding Background}">
+                                                        <ContentPresenter Margin="10,5,5,10"
+                                                                          HorizontalAlignment="Center" />
+                                                    </Border>
+                                                </ControlTemplate>
+                                            </Button.Template>
+                                        </Button>
+
+                                    </Grid>
+
+                                </Grid>
+
+                            </Grid>
+                        </ScrollViewer>
+
+                    </Grid>
+
+                </Grid>
+
+            </Border>
+        </Grid>
+    </Grid>
+</Window>
+
+
+
