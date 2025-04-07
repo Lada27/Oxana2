@@ -1,0 +1,340 @@
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\CURSACH.exe.config
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\CURSACH.exe
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\CURSACH.pdb
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Azure.Core.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Azure.Identity.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\EntityFramework.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\LiveCharts.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Buffers.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Memory.Data.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Memory.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Security.Permissions.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Text.Json.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.ValueTuple.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Azure.Core.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Azure.Identity.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\EntityFramework.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\LiveCharts.pdb
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\LiveCharts.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Buffers.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Memory.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Memory.Data.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Security.Permissions.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Text.Json.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\System.ValueTuple.xml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\CURSACH.csproj.AssemblyReference.cache
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\MainWindow.g.cs
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\View\SignUpView.g.cs
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\View\Home.g.cs
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\View\LoginView.g.cs
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\View\Profile.g.cs
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\View\TaskDetailsWindow.g.cs
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\View\TaskManagement.g.cs
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\View\UserDetails.g.cs
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\View\UsersWindow.g.cs
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\App.g.cs
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\CURSACH_MarkupCompile.cache
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\CURSACH_MarkupCompile.lref
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\MainWindow.baml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\View\SignUpView.baml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\View\Home.baml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\View\LoginView.baml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\View\Profile.baml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\View\TaskDetailsWindow.baml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\View\TaskManagement.baml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\View\UserDetails.baml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\View\UsersWindow.baml
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\CURSACH.g.resources
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\CURSACH.Properties.Resources.resources
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\CURSACH.Resource1.resources
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\CURSACH.csproj.GenerateResource.cache
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\CURSACH.csproj.CoreCompileInputs.cache
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\CURSACH.csproj.CopyComplete
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\CURSACH.exe
+C:\Users\Тест\Desktop\kkk-main\CURSACH\obj\Debug\CURSACH.pdb
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\CURSACH.exe.config
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\CURSACH.exe
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\CURSACH.pdb
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Azure.Core.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Azure.Identity.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\EntityFramework.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\LiveCharts.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\LiveCharts.Wpf.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Microsoft.Identity.Client.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Microsoft.IdentityModel.Logging.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Buffers.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Configuration.ConfigurationManager.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.IO.FileSystem.AccessControl.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Memory.Data.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Memory.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Numerics.Vectors.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Security.AccessControl.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Security.Permissions.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Security.Principal.Windows.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Text.Encodings.Web.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Text.Json.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.ValueTuple.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Azure.Core.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Azure.Identity.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\EntityFramework.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\LiveCharts.pdb
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\LiveCharts.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\LiveCharts.Wpf.pdb
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\LiveCharts.Wpf.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Microsoft.Data.SqlClient.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Microsoft.Identity.Client.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Microsoft.IdentityModel.Logging.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Buffers.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Configuration.ConfigurationManager.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.IO.FileSystem.AccessControl.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Memory.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Memory.Data.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Numerics.Vectors.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Security.AccessControl.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Security.Permissions.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Security.Principal.Windows.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Text.Encodings.Web.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Text.Json.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\System.ValueTuple.xml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\CURSACH.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\View\SignUpView.g.cs
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\View\Home.g.cs
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\View\LoginView.g.cs
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\View\Profile.g.cs
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\View\TaskDetailsWindow.g.cs
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\View\TaskManagement.g.cs
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\View\UserDetails.g.cs
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\View\UsersWindow.g.cs
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\App.g.cs
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\CURSACH_MarkupCompile.cache
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\CURSACH_MarkupCompile.lref
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\MainWindow.baml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\View\SignUpView.baml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\View\Home.baml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\View\LoginView.baml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\View\Profile.baml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\View\TaskDetailsWindow.baml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\View\TaskManagement.baml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\View\UserDetails.baml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\View\UsersWindow.baml
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\CURSACH.g.resources
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\CURSACH.Properties.Resources.resources
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\CURSACH.Resource1.resources
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\CURSACH.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\CURSACH.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\CURSACH.csproj.CopyComplete
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\CURSACH.exe
+\\Mac\Home\Downloads\Oxana2-main\CURSACH\obj\Debug\CURSACH.pdb
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\CURSACH.exe.config
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\CURSACH.exe
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\CURSACH.pdb
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Azure.Core.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Azure.Identity.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\EntityFramework.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\LiveCharts.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Buffers.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Memory.Data.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Memory.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Security.Permissions.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Text.Json.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.ValueTuple.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Azure.Core.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Azure.Identity.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\EntityFramework.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\LiveCharts.pdb
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\LiveCharts.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Buffers.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Memory.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Memory.Data.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Security.Permissions.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Text.Json.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\System.ValueTuple.xml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\CURSACH.csproj.AssemblyReference.cache
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\CURSACH.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\MainWindow.g.cs
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\View\SignUpView.g.cs
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\View\Home.g.cs
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\View\LoginView.g.cs
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\View\Profile.g.cs
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\View\TaskDetailsWindow.g.cs
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\View\TaskManagement.g.cs
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\View\UserDetails.g.cs
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\View\UsersWindow.g.cs
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\App.g.cs
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\CURSACH_MarkupCompile.cache
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\CURSACH_MarkupCompile.lref
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\MainWindow.baml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\View\SignUpView.baml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\View\Home.baml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\View\LoginView.baml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\View\Profile.baml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\View\TaskDetailsWindow.baml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\View\TaskManagement.baml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\View\UserDetails.baml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\View\UsersWindow.baml
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\CURSACH.g.resources
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\CURSACH.Properties.Resources.resources
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\CURSACH.Resource1.resources
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\CURSACH.csproj.GenerateResource.cache
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\CURSACH.csproj.CoreCompileInputs.cache
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\CURSACH.csproj.CopyComplete
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\CURSACH.exe
+C:\Users\Lada\OneDrive\Рабочий стол\Oxana2-develop\CURSACH\obj\Debug\CURSACH.pdb
